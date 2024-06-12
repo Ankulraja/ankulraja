@@ -1,3 +1,4 @@
+<img src="https://res.cloudinary.com/dkoezhi9u/image/upload/v1718222665/UploadOnly/Ankul_Raja_Patel_moiscw.png">
 <h1 align="center">Hi 👋, I'm Ankul Raja Patel</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
